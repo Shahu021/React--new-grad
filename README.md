@@ -6,6 +6,6 @@ This is a Simple React Web application that uses the Rxnorm API to search for dr
 
 1. ** Clone the repository**:
 2. '''bash
-3. git clone 
+3. git clone https://github.com/Shahu021/React--new-grad
 4. cd rxnorm-app
    
